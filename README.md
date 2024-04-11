@@ -3,7 +3,7 @@
 - 🌱 I have been teaching myself html and css coding <3
 - 💞️ if you want to commission me or see my work check amp-ersand.github.oi/Ampersand/Index.com
 - 😄 Pronouns: any
-- ⚡ Fun fact: ...
+
 
 <!---
 Amp-ersand/Amp-ersand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
