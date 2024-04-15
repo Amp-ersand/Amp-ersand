@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amp-ersand
 - 👀 I’m a Dancer and Artist
 - 🌱 I have been teaching myself html and css coding <3
-- 💞️ if you want to commission me or see my work check amp-ersand.github.oi/Ampersand/Index.com
+- 💞️ if you want to commission me or see my work check amp-ersand.github.io/Ampersand/Index.com
 - 😄 Pronouns: any
 
 
